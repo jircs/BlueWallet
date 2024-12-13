@@ -109,7 +109,7 @@
     "@react-native-clipboard/clipboard": "1.11.2",
     "@react-native-community/push-notification-ios": "1.11.0",
     "@react-navigation/drawer": "5.12.9",
-    "@react-navigation/native": "5.9.8",
+    "@react-navigation/native": "7.0.14",
     "@remobile/react-native-qrcode-local-image": "https://github.com/BlueWallet/react-native-qrcode-local-image",
     "@spsina/bip47": "github:BlueWallet/bip47#0a2f02c90350802f2ec93afa4e6c8843be2d687c",
     "aez": "1.0.1",
